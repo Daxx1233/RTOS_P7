@@ -45,5 +45,6 @@ Proyek ini menunjukkan prinsip-prinsip inti pengembangan sistem berbasis RTOS se
 ![Screenshot 2024-11-20 203131](https://github.com/user-attachments/assets/ffd3f769-3096-49b2-be6d-dc6c2d8841e7)
 
 # Video Hardware
+https://github.com/user-attachments/assets/5b8d1cc3-1ee6-48d6-b1e7-5227d1f77a96
 
-https://github.com/user-attachments/assets/a3697899-013f-4a64-902a-7d970c7c26b4
+
